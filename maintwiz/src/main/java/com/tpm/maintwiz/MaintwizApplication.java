@@ -9,5 +9,5 @@ public class MaintwizApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(MaintwizApplication.class, args);
 		System.out.println("REACHED");
-	}
+	}	
 }
